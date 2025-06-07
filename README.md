@@ -1,1 +1,1 @@
-# QR-Code-Reader
+QR Code Reader App — Developed by Smartweb Solution
